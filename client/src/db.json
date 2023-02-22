@@ -1,0 +1,1829 @@
+[{
+    "id": "100",
+    "start": "12:06:47 PM",
+    "end": null,
+    "description": "Alex Murdaugh's vehicle leaves the Moselle property headed to the PMPED law firm in Hampton.",
+    "source": "Alex",
+    "action": "leaves",
+    "location": "Moselle",
+    "measurement": null
+},
+{
+    "id": "200",
+    "start": "12:24:06 PM",
+    "end": null,
+    "description": "Alex Murdaugh arrives to the PMPED law firm.",
+    "source": "Alex",
+    "action": "arrives",
+    "location": "PMPED",
+    "measurement": null
+},
+{
+    "id": "300",
+    "start": "3:28:00 PM",
+    "end": null,
+    "description": "Murdaugh housekeeper Blanca Turrubiate-Simpson finishes cooking dinner for Alex, Maggie and Paul at Moselle. She texts Maggie, who is in the Charleston area, 'Dinners on the stove, just left.'",
+    "source": "Blanca",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "400",
+    "start": "3:40:00 PM",
+    "end": null,
+    "description": "Maggie texts Blanca 'Thank you.'",
+    "source": "Maggie",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "500",
+    "start": "3:41:00 PM",
+    "end": null,
+    "description": "Alex Murdaugh places a FaceTime call to his wife Maggie. It goes unanswered. A SLED agent testifies that the record of the call is later manually deleted from Alex's phone.",
+    "source": "Alex",
+    "action": "FaceTimes",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "600",
+    "start": "3:00:00 PM",
+    "end": "3:59:00 PM",
+    "description": "Roger Dale Davis arrives to Moselle to feed the dogs, chickens and clean the dog pens. He said no one else was at the property when he arrived and nothing was out of place.",
+    "source": "Roger Dale Davis",
+    "action": "arrives",
+    "location": "Moselle",
+    "measurement": null
+},
+{
+    "id": "700",
+    "start": "3:55:00 PM",
+    "end": null,
+    "description": "Maggie texts Blanca, 'I'm waiting at doctor. Alex wants me to come home. I have to leave door open at Edisto. I trust Mexicans to shut and lock for me. His dad is back in hospital. No cancer. It's pneumonia.'",
+    "source": "Maggie",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "800",
+    "start": "3:57:00 PM",
+    "end": null,
+    "description": "Maggie texts Blanca regarding Alex having a lot of pressure on him to care for his ailing parents, 'Alex is about to die. Hope he doesn't go down there to sleep. Alex needs to take care of himself as well.'",
+    "source": "Maggie",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "900",
+    "start": "3:57:00 PM",
+    "end": null,
+    "description": "Alex texts Maggie, 'How's your doctor appt?'",
+    "source": "Alex",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "1000",
+    "start": "4:06:00 PM",
+    "end": null,
+    "description": "Maggie texts Blanca, in reference to the ailing Randolph Murdaugh, 'I'm scared for him and Alex and all of us.'",
+    "source": "Maggie",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "1100",
+    "start": "4:10:00 PM",
+    "end": "6:25:00 PM",
+    "description": "Alex Murdaugh's phone places him at the PMPED law firm in Hampton.",
+    "source": "Alex",
+    "action": null,
+    "location": "PMPED",
+    "measurement": null
+},
+{
+    "id": "1200",
+    "start": "4:25:00 PM",
+    "end": "7:05:00 PM",
+    "description": "Maggie's phone places her in the West Ashley area, near Charleston.",
+    "source": "Maggie",
+    "action": null,
+    "location": "West Ashley",
+    "measurement": null
+},
+{
+    "id": "1300",
+    "start": "4:30:00 PM",
+    "end": null,
+    "description": "Roger Dale Davis leaves Moselle after caring for the dogs and chickens.",
+    "source": "Roger Dale Davis",
+    "action": "leaves",
+    "location": "Moselle",
+    "measurement": null
+},
+{
+    "id": "1400",
+    "start": "4:35:00 PM",
+    "end": null,
+    "description": "Alex places a FaceTime call to Maggie. It goes unanswered. A SLED agent testifies that the record of the call is later manually deleted from Alex's phone.",
+    "source": "Alex",
+    "action": "FaceTimes",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "1450",
+    "start": "4:42:56 PM",
+    "end": "4:43:34 PM",
+    "description": "mlw-added",
+    "source": "Maggie",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:00:38"
+},
+{
+    "id": "1500",
+    "start": "5:30:00 PM",
+    "end": "6:09:00 PM",
+    "description": "Paul Murdaugh's phone places him in Okatie.",
+    "source": "Paul",
+    "action": null,
+    "location": "Okatie",
+    "measurement": null
+},
+{
+    "id": "1600",
+    "start": "6:04:11 PM",
+    "end": null,
+    "description": "Paul Murdaugh calls Will Loving.",
+    "source": "Paul",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "1700",
+    "start": "6:04:25 PM",
+    "end": "6:06:57 PM",
+    "description": "Will Loving calls Paul Murdaugh.",
+    "source": "Will",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:02:32"
+},
+{
+    "id": "1800",
+    "start": "6:08:57 PM",
+    "end": "6:08:58 PM",
+    "description": "Paul Murdaugh calls 'Dad.' No record of the call is found on Alex Murdaugh's phone.",
+    "source": "Paul",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:00:01"
+},
+{
+    "id": "1850",
+    "start": "6:09:17 PM",
+    "end": "6:09:19 PM",
+    "description": "mlw-added",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:00:02"
+},
+{
+    "id": "1900",
+    "start": "6:09:48 PM",
+    "end": null,
+    "description": "Maggie Murdaugh texts Paul saying she's getting a foot massage.",
+    "source": "Maggie",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "1950",
+    "start": "6:09:58 PM",
+    "end": null,
+    "description": "mlw-added",
+    "source": "Paul",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "1975",
+    "start": "6:10:01 PM",
+    "end": null,
+    "description": "mlw-added",
+    "source": "Maggie",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "2000",
+    "start": "6:20:53 PM",
+    "end": null,
+    "description": "Marian Proctor calls her sister Maggie's phone. Maggie texts Marian saying she can't talk and she's getting a foot massage.",
+    "source": "Marian Proctor",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "2050",
+    "start": "6:21:28 PM",
+    "end": null,
+    "description": "mlw-added",
+    "source": "Maggie",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "2100",
+    "start": "6:23:27 PM",
+    "end": null,
+    "description": "Paul texts his mom asking what Blanca cooked for dinner. She replies country fried steak and macaroni and cheese.",
+    "source": "Paul",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "2150",
+    "start": "6:23:48 PM",
+    "end": null,
+    "description": "mlw-added",
+    "source": "Maggie",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "2200",
+    "start": "6:24:00 PM",
+    "end": null,
+    "description": "Alex Murdaugh's vehicle leaves the PMPED law firm, headed to Moselle.",
+    "source": "Alex",
+    "action": "leaves",
+    "location": "PMPED",
+    "measurement": null
+},
+{
+    "id": "2250",
+    "start": "6:24:03 PM",
+    "end": "6:29:53 PM",
+    "description": "mlw-added",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:05:50"
+},
+{
+    "id": "2300",
+    "start": "6:25:35 PM",
+    "end": null,
+    "description": "Alex Murdaugh's phone receives a call from Jay Parker.",
+    "source": "Jay Parker",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "2400",
+    "start": "6:17:00 PM",
+    "end": "6:53:00 PM",
+    "description": "Paul's phone shows him traveling from Okatie to Moselle.",
+    "source": "Paul",
+    "action": "travels to",
+    "location": "Moselle",
+    "measurement": null
+},
+{
+    "id": "2500",
+    "start": "6:40:01 PM",
+    "end": "6:42:30 PM",
+    "description": "Paul Murdaugh calls 'PA' (Alex Murdaugh's phone). The call lasts 2 minutes and 29 seconds. There is no call log for it in Alex Murdaugh's phone.",
+    "source": "Paul",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:02:29"
+},
+{
+    "id": "2600",
+    "start": "6:42:00 PM",
+    "end": null,
+    "description": "Alex Murdaugh's vehicle arrives at Moselle.",
+    "source": "Alex",
+    "action": "arrives",
+    "location": "Moselle",
+    "measurement": null
+},
+{
+    "id": "2700",
+    "start": "6:43:00 PM",
+    "end": "6:44:44 PM",
+    "description": "Alex calls his wife's phone. The call lasts 104 seconds. There is no call log for it in the data extractions of Alex's phone.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:01:44"
+},
+{
+    "id": "2750",
+    "start": "6:52:13 PM",
+    "end": "6:59:05 PM",
+    "description": "mlw-added",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:06:52"
+},
+{
+    "id": "2800",
+    "start": "6:53:44 PM",
+    "end": null,
+    "description": "Paul Murdaugh's phone calls John Marvin Murdaugh.",
+    "source": "Paul",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "2900",
+    "start": "7:04:00 PM",
+    "end": null,
+    "description": "Paul Murdaugh is at Moselle.",
+    "source": "Paul",
+    "action": null,
+    "location": "Moselle",
+    "measurement": null
+},
+{
+    "id": "3000",
+    "start": "7:05:00 PM",
+    "end": null,
+    "description": "Alex texts Maggie, 'Paul says you are getting pedi!! Call when you get done.'",
+    "source": "Alex",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "3100",
+    "start": "7:00:06 PM",
+    "end": null,
+    "description": "Paul texts CB Rowe asking if he's coming to the property the next day.",
+    "source": "Paul",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "3200",
+    "start": "7:18:40 PM",
+    "end": null,
+    "description": "Alex texts CB Rowe stating 'Call me pls.'",
+    "source": "Alex",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "3300",
+    "start": "7:07:00 PM",
+    "end": "7:50:00 PM",
+    "description": "Maggie's phone places her traveling from the North Charleston area, taking Highway 17, towards Moselle.",
+    "source": "Maggie",
+    "action": null,
+    "location": "West Ashley",
+    "measurement": null
+},
+{
+    "id": "3400",
+    "start": "7:09:43 PM",
+    "end": "7:09:46 PM",
+    "description": "Maggie Murdaugh calls Courtney Shelbourne. The call lasts 3 seconds.",
+    "source": "Maggie",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:00:03"
+},
+{
+    "id": "3500",
+    "start": "7:09:43 PM",
+    "end": "7:18:00 PM",
+    "description": "Maggie Murdaugh calls 'Mom.' The call lasts 8 minutes and 17 seconds.",
+    "source": "Maggie",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:08:17"
+},
+{
+    "id": "3600",
+    "start": "7:14:13 PM",
+    "end": "7:22:19 PM",
+    "description": "Paul Murdaugh's phone records 208 steps taken.",
+    "source": "Paul",
+    "action": "walks",
+    "location": null,
+    "measurement": "208"
+},
+{
+    "id": "3700",
+    "start": "7:15:35 PM",
+    "end": "7:21:52 PM",
+    "description": "Alex Murdaugh's phone records 200 steps taken.",
+    "source": "Alex",
+    "action": "walks",
+    "location": null,
+    "measurement": "200"
+},
+{
+    "id": "3800",
+    "start": "7:18:40 PM",
+    "end": "7:18:42 PM",
+    "description": "Maggie Murdaugh calls 'Barbara.' The call lasts 2 seconds.",
+    "source": "Maggie",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:00:02"
+},
+{
+    "id": "3900",
+    "start": "7:18:44 PM",
+    "end": null,
+    "description": "Alex Murdaugh texts CB Rowe stating, 'Call me pls.'",
+    "source": "Alex",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "4000",
+    "start": "7:25:03 PM",
+    "end": "7:34:47 PM",
+    "description": "Paul Murdaugh's phone shows 139 steps taken.",
+    "source": "Paul",
+    "action": "walks",
+    "location": null,
+    "measurement": "139"
+},
+{
+    "id": "4100",
+    "start": "7:28:35 PM",
+    "end": "7:37:11 PM",
+    "description": "Alex Murdaugh's phone records 47 steps taken.",
+    "source": "Alex",
+    "action": "walks",
+    "location": null,
+    "measurement": "47"
+},
+{
+    "id": "4200",
+    "start": "7:31:13 PM",
+    "end": "7:38:52 PM",
+    "description": "Maggie Murdaugh calls her sister Marian Proctor. The call lasts 7 minutes and 39 seconds.",
+    "source": "Maggie",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:07:39"
+},
+{
+    "id": "4300",
+    "start": "7:35:10 PM",
+    "end": "7:41:43 PM",
+    "description": "Paul Murdaugh's phone records 171 steps taken.",
+    "source": "Paul",
+    "action": "walks",
+    "location": null,
+    "measurement": "171"
+},
+{
+    "id": "4400",
+    "start": "7:37:00 PM",
+    "end": null,
+    "description": "Paul Murdaugh receives a Snapchat message from 'michellebeck' stating, 'BC I have short term memory loss.'",
+    "source": "michellebeck",
+    "action": "Snapchats",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "4500",
+    "start": "7:38:34 PM",
+    "end": null,
+    "description": "Paul receives an iMessage from Meagan Kimbrell stating, 'Paul.'",
+    "source": "Meagan Kimbrell",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "4600",
+    "start": "7:39:48 PM",
+    "end": null,
+    "description": "Maggie Murdaugh calls 'Barbara.' There is no answer.",
+    "source": "Maggie",
+    "action": "calls",
+    "location": null,
+    "measurement": "Unk"
+},
+{
+    "id": "4700",
+    "start": "7:39:55 PM",
+    "end": null,
+    "description": "It appears Paul Murdaugh records the video of his father he sends as a Snapchat video about 15 minutes later.",
+    "source": "Paul",
+    "action": "records",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "4800",
+    "start": "7:41:23 PM",
+    "end": "7:48:49 PM",
+    "description": "Alex Murdaugh's phone records 29 steps.",
+    "source": "Alex",
+    "action": "walks",
+    "location": null,
+    "measurement": "29"
+},
+{
+    "id": "4900",
+    "start": "7:45:00 PM",
+    "end": "7:56:00 PM",
+    "description": "Paul's phone places him by the kennels on the Moselle property.",
+    "source": "Paul",
+    "action": null,
+    "location": "Moselle kennels",
+    "measurement": null
+},
+{
+    "id": "5000",
+    "start": "7:50:00 PM",
+    "end": null,
+    "description": "Maggie's phone is in Walterboro, roughly a half hour away from Moselle. It's the last location data pulled from her phone.",
+    "source": "Maggie",
+    "action": null,
+    "location": "Walterboro",
+    "measurement": null
+},
+{
+    "id": "5100",
+    "start": "7:50:03 PM",
+    "end": "7:50:03 PM",
+    "description": "Maggie calls 'Barbara.' The call lasts 8 seconds.",
+    "source": "Maggie",
+    "action": "calls",
+    "location": null,
+    "measurement": "8"
+},
+{
+    "id": "5200",
+    "start": "7:55:44 PM",
+    "end": "8:05:28 PM",
+    "description": "Paul Murdaugh's phone records 262 steps.",
+    "source": "Paul",
+    "action": "walks",
+    "location": null,
+    "measurement": "262"
+},
+{
+    "id": "5300",
+    "start": "7:55:32 PM",
+    "end": "8:05:07 PM",
+    "description": "Alex Murdaugh's phone records 270 steps.",
+    "source": "Alex",
+    "action": "walks",
+    "location": null,
+    "measurement": "270"
+},
+{
+    "id": "5400",
+    "start": "7:56:00 PM",
+    "end": null,
+    "description": "Paul sends a Snapchat video. Paul laughs as Alex is seen standing by a little tree at Moselle as it flops over.",
+    "source": "Paul",
+    "action": "Snapchats",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "5500",
+    "start": "8:05:35 PM",
+    "end": "8:09:52 PM",
+    "description": "Alex Murdaugh's phone records 54 steps.",
+    "source": "Alex",
+    "action": "walks",
+    "location": null,
+    "measurement": "54"
+},
+{
+    "id": "5600",
+    "start": "8:05:46 PM",
+    "end": "8:15:24 PM",
+    "description": "Paul Murdaugh's phone records 303 steps.",
+    "source": "Paul",
+    "action": "walks",
+    "location": null,
+    "measurement": "303"
+},
+{
+    "id": "5700",
+    "start": "8:06:00 PM",
+    "end": null,
+    "description": "Paul's phone begins moving from the kennels to the main house.",
+    "source": "Paul",
+    "action": "walks",
+    "location": "Moselle kennels",
+    "measurement": "unk"
+},
+{
+    "id": "5800",
+    "start": "8:07:20 PM",
+    "end": null,
+    "description": "Paul Murdaugh sends a Snapchat message to several friends.",
+    "source": "Paul",
+    "action": "Snapchats",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "5900",
+    "start": "8:09:00 PM",
+    "end": "9:02:00 PM",
+    "description": "Alex's phone records no steps, indicating he was not moving with the phone in his possession. He later told investigators he was sleeping during that time.",
+    "source": "Alex's phone",
+    "action": "does not move",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "6000",
+    "start": "8:11:08 PM",
+    "end": "8:31:15 PM",
+    "description": "Maggie Murdaugh's phone is locked.",
+    "source": "Maggie's phone",
+    "action": "locked",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "6100",
+    "start": "8:14:00 PM",
+    "end": "8:35:00 PM",
+    "description": "Paul Murdaugh's phone puts him at the main house.",
+    "source": "Paul",
+    "action": null,
+    "location": "Moselle house",
+    "measurement": null
+},
+{
+    "id": "6200",
+    "start": "8:15:55 PM",
+    "end": "8:21:45 PM",
+    "description": "Paul's phone records 140 steps.",
+    "source": "Paul",
+    "action": "walks",
+    "location": null,
+    "measurement": "140"
+},
+{
+    "id": "6300",
+    "start": "8:17:00 PM",
+    "end": "8:18:00 PM",
+    "description": "Maggie Murdaugh's phone records 38 steps taken.",
+    "source": "Maggie",
+    "action": "walks",
+    "location": null,
+    "measurement": "38"
+},
+{
+    "id": "6400",
+    "start": "8:19:23 PM",
+    "end": null,
+    "description": "Paul Murdaugh receives a Snapchat message from 'Ansley Wilson,' stating 'He's got the magic touch.'",
+    "source": "Ansley Wilson",
+    "action": "Snapchats",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "6500",
+    "start": "8:23:33 PM",
+    "end": null,
+    "description": "Paul sends a Snapchat message to 'Marlene Robinson,' stating, 'He's hurt.'",
+    "source": "Paul",
+    "action": "Snapchats",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "6600",
+    "start": "8:24:08 PM",
+    "end": null,
+    "description": "Paul sends an iMessage to Meagan Kimbrell stating, 'Meagan.'",
+    "source": "Paul",
+    "action": "iMessages",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "6700",
+    "start": "8:28:07 PM",
+    "end": null,
+    "description": "Paul receives an iMessage from Meagan Kimbrell stating, 'We're u avoiding me.'",
+    "source": "Meagan Kimbrell",
+    "action": "iMessages",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "6800",
+    "start": "8:28:35 PM",
+    "end": null,
+    "description": "Paul responds to Meagan Kimbrell with, 'When?'",
+    "source": "Paul",
+    "action": "iMessages",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "6900",
+    "start": "8:28:54 PM",
+    "end": null,
+    "description": "Paul receives an iMessage from a Mrs. Morgan stating, 'I have not received anything back yet. Did you get the lease email?'",
+    "source": "Mrs. Morgan",
+    "action": "iMessages",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "7000",
+    "start": "8:29:06 PM",
+    "end": null,
+    "description": "Paul receives an iMessage from Meagan Kimbrell stating, 'You didn't send me any movie recommendations.'",
+    "source": "Meagan Kimbrell",
+    "action": "iMessages",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "7100",
+    "start": "8:29:36 PM",
+    "end": null,
+    "description": "Paul responds, 'Haha I didn't have a good one. Wills might.'",
+    "source": "Paul",
+    "action": "iMessages",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "7200",
+    "start": "8:30:00 PM",
+    "end": "8:33:00 PM",
+    "description": "Maggie Murdaugh's phone records 43 steps taken.",
+    "source": "Maggie",
+    "action": "walks",
+    "location": null,
+    "measurement": "43"
+},
+{
+    "id": "7300",
+    "start": "8:31:00 PM",
+    "end": null,
+    "description": "John Marvin Murdaugh sends a text to several family members, including Alex and Maggie, which reads, 'I plan to go over to visit dad tomorrow afternoon. Is anyone else planning to go?' Maggie Murdaugh's phone did not unlock for the notification until 8:49:26 p.m. Alex Murdaugh read it at 1:44 p.m. the following day.",
+    "source": "John Marvin Murdaugh",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "7350",
+    "start": "8:31:15 PM",
+    "end": null,
+    "description": "mlw-added",
+    "source": "Maggie's phone",
+    "action": "unlocks, sends read receipt",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "7400",
+    "start": "8:32:10 PM",
+    "end": null,
+    "description": "Paul receives a call from Lucile Boyle. The call is not answered.",
+    "source": "Lucile Boyle",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "7500",
+    "start": "8:32:25 PM",
+    "end": "8:42:11 PM",
+    "description": "Paul's cell phone records 283 steps taken.",
+    "source": "Paul",
+    "action": "walks",
+    "location": null,
+    "measurement": "283"
+},
+{
+    "id": "7600",
+    "start": "8:38:00 PM",
+    "end": "8:44:56 AM",
+    "description": "Paul's phone pinged by tower 4 times during this time",
+    "source": "Paul",
+    "action": null,
+    "location": "Moselle kennels",
+    "measurement": null
+},
+{
+    "id": "7700",
+    "start": "8:40:20 PM",
+    "end": "8:44:34 PM",
+    "description": "Paul calls longtime friend Rogan Gibson asking if something is wrong with the tail of Gibson's dog, who was staying in the Murdaugh kennels. The call lasts 4 minutes and 14 seconds.",
+    "source": "Paul",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:04:14"
+},
+{
+    "id": "7800",
+    "start": "8:41:38 PM",
+    "end": null,
+    "description": "Paul receives a Snapchat message from Rogan Gibson.",
+    "source": "Rogan Gibson",
+    "action": "Snapchats",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "7900",
+    "start": "8:44:34 PM",
+    "end": "8:44:45 PM",
+    "description": "Paul Murdaugh initiates a FaceTime call with Gibson. It lasts 11 seconds.",
+    "source": "Paul",
+    "action": "FaceTimes",
+    "location": null,
+    "measurement": "0:00:11"
+},
+{
+    "id": "8000",
+    "start": "8:44:55 PM",
+    "end": null,
+    "description": "Paul records a video for Gibson at the kennels, showing the dog. <strong><em>Watch it below.</em></strong> Three voices are heard in the video. Multiple witnesses testify those voices are Paul, Maggie and Alex Murdaugh.",
+    "source": "Paul",
+    "action": "records video",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "8100",
+    "start": "8:47:55 PM",
+    "end": null,
+    "description": "Paul sends an iMessage to Meagan Kimbrell stating, 'Haha kidding.'",
+    "source": "Paul",
+    "action": "iMessages",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "8200",
+    "start": "8:48:05 PM",
+    "end": null,
+    "description": "Paul again sends an iMessage to her, stating, 'Star was born is the movie.'",
+    "source": "Paul",
+    "action": "iMessages",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "8300",
+    "start": "8:48:29 PM",
+    "end": null,
+    "description": "Meagan Kimbrell texts Paul, 'No I need something happy' and 'Don't like watching sad movies.'",
+    "source": "Meagan Kimbrell",
+    "action": "iMessages",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "8350",
+    "start": "8:48:59 PM",
+    "end": null,
+    "description": "mlw-added",
+    "source": "Paul's phone",
+    "action": "unlocks, sends read receipt",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "8400",
+    "start": "8:49:01 PM",
+    "end": null,
+    "description": "Paul Murdaugh's phone is locked.",
+    "source": "Paul's phone",
+    "action": "locks",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "8500",
+    "start": "8:49:26 PM",
+    "end": null,
+    "description": "Maggie Murdaugh's phone unlocks and she reads another text in the group chat about Randolph Murdaugh.",
+    "source": "Maggie's phone",
+    "action": "unlocks, sends read receipt",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "8600",
+    "start": "8:49:28 PM",
+    "end": null,
+    "description": "Maggie Murdaugh's phone accesses an application and implements orientation change to landscape.",
+    "source": "Maggie's phone",
+    "action": "opens app, orientation change",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "8700",
+    "start": "8:49:31 PM",
+    "end": null,
+    "description": "Maggie Murdaugh's phone is locked and not unlocked until it's found a quarter mile away the next afternoon.",
+    "source": "Maggie's phone",
+    "action": "locks",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "8800",
+    "start": "8:49:35 PM",
+    "end": null,
+    "description": "Rogan Gibson texts Paul about the dog's tail, 'See if you can get a good picture of it. MaryAnn wants to send it to a girl we know that's a vet. Get him to sit and stay. He shouldn't move around too much.' The text goes unread.",
+    "source": "Rogan",
+    "action": "iMessages",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "8900",
+    "start": "8:53:00 PM",
+    "end": null,
+    "description": "The orientation on Maggie's phone changes, waking the screen to activate its Face ID security feature. But the phone remains locked, thus implying it is picked up by someone who is not her.",
+    "source": "Maggie's phone",
+    "action": "fails unlocking",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "9000",
+    "start": "8:53:15 PM",
+    "end": "8:55:32 PM",
+    "description": "Maggie Murdaugh's phone records 59 steps.",
+    "source": "Maggie's phone",
+    "action": "walks",
+    "location": null,
+    "measurement": "59"
+},
+{
+    "id": "9100",
+    "start": "8:55:48 PM",
+    "end": null,
+    "description": "Maggie Murdaugh's phone takes a snapshot of an open app, Facebook, running in the background.",
+    "source": "Maggie's phone",
+    "action": "snapshots",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "9200",
+    "start": "9:02:18 PM",
+    "end": "9:06:47 PM",
+    "description": "Alex Murdaugh's phone comes to life, recording 283 steps, about 70 steps per minute.",
+    "source": "Alex",
+    "action": "walks",
+    "location": null,
+    "measurement": "283"
+},
+{
+    "id": "9300",
+    "start": "9:04:23 PM",
+    "end": null,
+    "description": "Alex Murdaugh calls his wife's phone. There is no record of the call in the data extraction from Alex's phone.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "9400",
+    "start": "9:05:15 PM",
+    "end": null,
+    "description": "Alex Murdaugh calls his father Randolph Murdaugh. The call lasts 18 seconds. There is no record of it in the data extraction from Alex's phone.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "9500",
+    "start": "9:06:00 PM",
+    "end": null,
+    "description": "The orientation of Maggie Murdaugh's phone changes.",
+    "source": "Maggie's phone",
+    "action": "orientation change",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "9600",
+    "start": "9:06:14 PM",
+    "end": null,
+    "description": "Alex Murdaugh calls his wife's phone. There is no answer. There is no record of the call in the data extraction from Alex's phone.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "9700",
+    "start": "9:07:06 PM",
+    "end": null,
+    "description": "Alex's vehicle leaves Moselle headed to Almeda.",
+    "source": "Alex",
+    "action": "departs",
+    "location": "Moselle",
+    "measurement": null
+},
+{
+    "id": "9800",
+    "start": "9:06:51 PM",
+    "end": null,
+    "description": "Alex Murdaugh calls his wife's phone. There is no answer. There is no record of the call in the data extraction from Alex's phone.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "9900",
+    "start": "9:08:36 PM",
+    "end": null,
+    "description": "Alex Murdaugh's vehicle drives by where Maggie Murdaugh's missing cell phone would be found the following day. After passing the location, the vehicle quickly increases speed.",
+    "source": "Alex",
+    "action": "tosses",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "10000",
+    "start": "9:08:58 PM",
+    "end": null,
+    "description": "Alex texts his wife's phone, 'Going to check on Em be rite back.'",
+    "source": "Alex",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "10100",
+    "start": "9:10:47 PM",
+    "end": null,
+    "description": "Alex calls his son Buster Murdaugh. The call lasts 60 seconds. There is no record of it in the data extraction from Alex's phone.",
+    "source": "Alex",
+    "action": "calls",
+    "location": "1m",
+    "measurement": null
+},
+{
+    "id": "10200",
+    "start": "9:12:14 PM",
+    "end": null,
+    "description": "Alex calls longtime friend and fellow attorney Chris Wilson. Wilson was busy and asked if he could call Alex back. The call lasts 2 minutes.",
+    "source": "Alex",
+    "action": "calls",
+    "location": "2m",
+    "measurement": null
+},
+{
+    "id": "10300",
+    "start": "9:18:46 PM",
+    "end": null,
+    "description": "Alex calls John Marvin Murdaugh. The call lasts 106 seconds. There is no record of the call in the data extraction of Alex's phone.",
+    "source": "Alex",
+    "action": "calls",
+    "location": "1m44s",
+    "measurement": null
+},
+{
+    "id": "10400",
+    "start": "9:20:00 PM",
+    "end": null,
+    "description": "Chris Wilson calls Alex back. Alex says he's getting close to his mom's house and asks if he can call him back. The call lasts 3 minutes.",
+    "source": "Chris Wilson",
+    "action": "calls",
+    "location": "3m",
+    "measurement": null
+},
+{
+    "id": "10500",
+    "start": "9:22:06 PM",
+    "end": null,
+    "description": "Alex's vehicle arrives at his mother's Almeda property.",
+    "source": "Alex",
+    "action": "arrives",
+    "location": "Almeda",
+    "measurement": null
+},
+{
+    "id": "10600",
+    "start": "9:22:39 PM",
+    "end": null,
+    "description": "Alex's vehicle pauses halfway up the driveway and parks by the woodline, away from the home.",
+    "source": "Alex's vehicle",
+    "action": "put in park",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "10700",
+    "start": "9:24:13 PM",
+    "end": null,
+    "description": "Shelly Smith, Libby Murdaugh's caregiver, testifies that Alex calls her from outside the home and asks to be let inside. She's able to get to the door 5 minutes later. Smith testifies that Libby, in the advanced stages of dementia, is asleep  during the visit and that Alex is on his phone a lot.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "10800",
+    "start": "9:34:00 PM",
+    "end": null,
+    "description": "Rogan Gibson, after not hearing back from Paul, texts Maggie Murdaugh, 'Tell Paul to call me.' The text goes unread.",
+    "source": "Rogan Gibson",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "10900",
+    "start": "9:35:55 PM",
+    "end": "9:45:37 PM",
+    "description": "Alex Murdaugh's phone records 60 steps taken.",
+    "source": "Alex",
+    "action": "walks",
+    "location": null,
+    "measurement": "60"
+},
+{
+    "id": "11000",
+    "start": "9:43:05 PM",
+    "end": null,
+    "description": "Alex's vehicle is taken out of park at Almeda.",
+    "source": "Alex's vehicle",
+    "action": "put in gear",
+    "location": "Almeda",
+    "measurement": null
+},
+{
+    "id": "11100",
+    "start": "9:43:59 PM",
+    "end": null,
+    "description": "Alex's vehicle is put into park.",
+    "source": "Alex's vehicle",
+    "action": "put in park",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "11200",
+    "start": "9:44:54 PM",
+    "end": null,
+    "description": "Alex's vehicle is taken out of park.",
+    "source": "Alex's vehicle",
+    "action": "put in gear",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "11300",
+    "start": "9:46:35 PM",
+    "end": null,
+    "description": "Alex calls Paul Murdaugh's phone. The connection lasts 18 seconds. There was no record of it in the data extraction from Alex's phone.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "11400",
+    "start": "9:47:00 PM",
+    "end": null,
+    "description": "Alex texts Maggie, 'Call me babe.' The text goes unread.",
+    "source": "Alex",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "11500",
+    "start": "9:52:15 PM",
+    "end": null,
+    "description": "Alex texts Chris Wilson, 'Call me if u up.'",
+    "source": "Alex",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "11600",
+    "start": "9:52:59 PM",
+    "end": null,
+    "description": "Chris Wilson calls Alex. There is no answer.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "11700",
+    "start": "9:53:55 PM",
+    "end": null,
+    "description": "Chris Wilson calls Alex again. Alex picks up. Chris wanted to talk about some cases but Alex said he was almost back home and would call him back.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "11800",
+    "start": "9:54:24 PM",
+    "end": null,
+    "description": "Alex Murdaugh's vehicle reaches 74 miles per hour as he returns to Moselle.",
+    "source": "Alex's vehicle",
+    "action": "is driving",
+    "location": null,
+    "measurement": "74mph"
+},
+{
+    "id": "11900",
+    "start": "9:56:57 PM",
+    "end": "10:06:57 PM",
+    "description": "Alex Murdaugh's phone records 231 steps taken.",
+    "source": "Alex",
+    "action": "walks",
+    "location": null,
+    "measurement": "231"
+},
+{
+    "id": "12000",
+    "start": "9:57:09 PM",
+    "end": null,
+    "description": "Rogan Gibson calls Paul Murdaugh. There is no answer.",
+    "source": "Rogan Gibson",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "12100",
+    "start": "9:58:00 PM",
+    "end": null,
+    "description": "After not hearing from Paul or Maggie, Rogan Gibson texts Paul 'Yo.'",
+    "source": "Rogan Gibson",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "12190",
+    "start": "10:00:36 PM",
+    "end": null,
+    "description": "mlw-added",
+    "source": "Alex",
+    "action": "arrives",
+    "location": "Moselle house",
+    "measurement": null
+},
+{
+    "id": "12200",
+    "start": "10:00:36 PM",
+    "end": null,
+    "description": "Alex returns to Moselle and places his vehicle into park at the main house. On the drive back from Almeda, the vehicle reached 80 mph where the max speed limit was 55 mph.",
+    "source": "Alex's vehicle",
+    "action": "put in park",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "12300",
+    "start": "10:01:17 PM",
+    "end": null,
+    "description": "Alex takes the vehicle out of park.",
+    "source": "Alex's vehicle",
+    "action": "put in gear",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "12400",
+    "start": "10:01:29 PM",
+    "end": null,
+    "description": "Alex puts the vehicle into park.",
+    "source": "Alex's vehicle",
+    "action": "put in park",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "12500",
+    "start": "10:01:30 PM",
+    "end": null,
+    "description": "Alex takes the vehicle out of park.",
+    "source": "Alex's vehicle",
+    "action": "put in gear",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "12600",
+    "start": "10:01:43 PM",
+    "end": null,
+    "description": "Alex puts the vehicle into park at the main house at Moselle.",
+    "source": "Alex's vehicle",
+    "action": "put in park",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "12700",
+    "start": "10:04:49 PM",
+    "end": null,
+    "description": "Alex takes the vehicle out of park.",
+    "source": "Alex's vehicle",
+    "action": "put in gear",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "12800",
+    "start": "10:05:04 PM",
+    "end": "10:05:06 PM",
+    "description": "Rogan Gibson calls Buster Murdaugh. The connection lasts 2 seconds.",
+    "source": "Rogan Gibson",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:00:02"
+},
+{
+    "id": "12900",
+    "start": "10:05:06 PM",
+    "end": null,
+    "description": "Alex Murdaugh's vehicle drives to the kennels from the main house.",
+    "source": "Alex",
+    "action": "departs",
+    "location": "Moselle house",
+    "measurement": null
+},
+{
+    "id": "12990",
+    "start": "10:05:55 PM",
+    "end": null,
+    "description": "mlw-added",
+    "source": "Alex",
+    "action": "arrives",
+    "location": "Moselle kennels",
+    "measurement": null
+},
+{
+    "id": "13000",
+    "start": "10:05:55 PM",
+    "end": null,
+    "description": "Alex puts the vehicle into park by the kennels.",
+    "source": "Alex's vehicle",
+    "action": "put in park",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "13100",
+    "start": "10:06:14 PM",
+    "end": null,
+    "description": "Alex calls 911 from the Moselle property. The call is received by Hampton County dispatch before being transferred to Colleton County.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "13200",
+    "start": "10:06:57 PM",
+    "end": "10:16:37 PM",
+    "description": "Alex Murdaugh's phone records 594 steps.",
+    "source": "Alex",
+    "action": "walks",
+    "location": null,
+    "measurement": "594"
+},
+{
+    "id": "13300",
+    "start": "10:11:45 PM",
+    "end": null,
+    "description": "Alex takes the vehicle out of park at the kennels and returns to the main house.",
+    "source": "Alex's vehicle",
+    "action": "put in gear",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "13310",
+    "start": "10:11:45 PM",
+    "end": null,
+    "description": "mlw-added",
+    "source": "Alex",
+    "action": "departs",
+    "location": "Moselle kennels",
+    "measurement": null
+},
+{
+    "id": "13390",
+    "start": "10:12:38 PM",
+    "end": null,
+    "description": "mlw-added",
+    "source": "Alex",
+    "action": "arrives",
+    "location": "Moselle house",
+    "measurement": null
+},
+{
+    "id": "13400",
+    "start": "10:12:38 PM",
+    "end": null,
+    "description": "Alex puts the vehicle into park at the main house.",
+    "source": "Alex's vehicle",
+    "action": "put in park",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "13500",
+    "start": "10:13:39 PM",
+    "end": null,
+    "description": "Alex takes the vehicle out of park at the main house, returning to the kennels.",
+    "source": "Alex's vehicle",
+    "action": "put in gear",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "13510",
+    "start": "10:13:39 PM",
+    "end": null,
+    "description": "mlw-added",
+    "source": "Alex",
+    "action": "departs",
+    "location": "Moselle house",
+    "measurement": null
+},
+{
+    "id": "13600",
+    "start": "10:14:30 PM",
+    "end": null,
+    "description": "Alex Murdaugh's vehicle returns to the kennels.",
+    "source": "Alex",
+    "action": "arrives",
+    "location": "Moselle kennels",
+    "measurement": null
+},
+{
+    "id": "13700",
+    "start": "10:17:49 PM",
+    "end": null,
+    "description": "Alex Murdaugh calls Randy Murdaugh. The connection lasts 16 seconds. There is no record of the call in the data extraction of Alex's phone.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "13800",
+    "start": "10:18:45 PM",
+    "end": null,
+    "description": "Alex Murdaugh iMessages Randy Murdaugh, stating, 'Pls call me. Emergency.'",
+    "source": "Alex",
+    "action": "iMessages",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "13900",
+    "start": "10:18:53 PM",
+    "end": "10:28:05 PM",
+    "description": "Alex's cell phone records 525 steps taken.",
+    "source": "Alex",
+    "action": "walks",
+    "location": null,
+    "measurement": "525"
+},
+{
+    "id": "14000",
+    "start": "10:19:32 PM",
+    "end": null,
+    "description": "Alex Murdaugh calls Randy Murdaugh. The connection lasts 1 second. There is no record of the call in the data extraction of Alex's phone.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "14100",
+    "start": "10:19:44 PM",
+    "end": null,
+    "description": "Alex Murdaugh calls John Marvin Murdaugh. The call lasts 40 seconds. There is no record of the call in the data extraction of Alex's phone.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "14200",
+    "start": "10:21:25 PM",
+    "end": null,
+    "description": "Alex Murdaugh calls Rogan Gibson. There is no answer. Gibson testified he was already asleep.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "14300",
+    "start": "10:21:57 PM",
+    "end": null,
+    "description": "Alex Murdaugh calls Christy Murdaugh. The call lasts 53 seconds.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "14400",
+    "start": "10:24:43 PM",
+    "end": null,
+    "description": "Alex Murdaugh texts Rogan Gibson, stating 'Call me.'",
+    "source": "Alex",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "14500",
+    "start": "10:25:49 PM",
+    "end": null,
+    "description": "Alex Murdaugh attempts to FaceTime Rogan Gibson. There is no answer.",
+    "source": "Alex",
+    "action": "FaceTimes",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "14600",
+    "start": "10:25:00 PM",
+    "end": null,
+    "description": "The Colleton County Sheriff's office arrives to the kennels. The South Carolina Law Enforcement Division is contacted for assistance.",
+    "source": "CCSD",
+    "action": "arrives",
+    "location": "Moselle kennels",
+    "measurement": null
+},
+{
+    "id": "14700",
+    "start": "10:28:54 PM",
+    "end": "10:37:27 PM",
+    "description": "Alex Murdaugh's phone records 320 steps taken.",
+    "source": "Alex",
+    "action": "walks",
+    "location": null,
+    "measurement": "320"
+},
+{
+    "id": "14800",
+    "start": "10:29:17 PM",
+    "end": null,
+    "description": "Alex Murdaugh calls Randy Murdaugh. The call lasts 42 seconds. There is no record of the call in the data extracted from Alex's phone.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "14900",
+    "start": "10:30:31 PM",
+    "end": null,
+    "description": "Alex Murdaugh again attempts to FaceTime Rogan Gibson. There is no answer.",
+    "source": "Alex",
+    "action": "FaceTimes",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "15000",
+    "start": "10:34:00 PM",
+    "end": null,
+    "description": "Nolen Tuten calls Paul Murdaugh's phone. Paul Murdaugh's phone dies.",
+    "source": "Nolen Tuten",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "15010",
+    "start": "10:34:00 PM",
+    "end": null,
+    "description": "mlw-added",
+    "source": "Paul's phone",
+    "action": "dies",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "15100",
+    "start": "10:35:00 PM",
+    "end": "10:35:28 PM",
+    "description": "Alex Murdaugh calls John Marvin Murdaugh. The call lasts 28 seconds.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:00:28"
+},
+{
+    "id": "15200",
+    "start": "10:36:00 PM",
+    "end": "10:36:56 PM",
+    "description": "Alex Murdaugh calls Randy Murdaugh. The call lasts 56 seconds.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:00:56"
+},
+{
+    "id": "15300",
+    "start": "10:40:00 PM",
+    "end": null,
+    "description": "Alex Murdaugh searched 'Whaley's Edisto' in Safari browser.",
+    "source": "Alex",
+    "action": "Googles",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "15400",
+    "start": "10:40:19 PM",
+    "end": "10:50:02 PM",
+    "description": "Alex Murdaugh's phone records 244 steps taken.",
+    "source": "Alex",
+    "action": "walks",
+    "location": null,
+    "measurement": "244"
+},
+{
+    "id": "15500",
+    "start": "10:44:20 PM",
+    "end": "10:44:28 PM",
+    "description": "Alex Murdaugh calls Buster Murdaugh. The connection lasts 8 seconds.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:00:08"
+},
+{
+    "id": "15600",
+    "start": "10:45:00 PM",
+    "end": null,
+    "description": "Alex Murdaugh calls Brooklyn White. The connection lasts 13 seconds. There is no record of the call in the data extraction of Alex's call.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "15700",
+    "start": "10:46:00 PM",
+    "end": null,
+    "description": "Alex Murdaugh calls Tracy White. The connection lasts 14 seconds. There is no record of the call in the data extraction of Alex's call.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "15800",
+    "start": "10:46:00 PM",
+    "end": null,
+    "description": "Buster Murdaugh calls Maggie Murdaugh. There is no answer.",
+    "source": "Buster",
+    "action": "calls",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "15900",
+    "start": "10:47:00 PM",
+    "end": null,
+    "description": "Alex Murdaugh texts Buster, Tracy White and Brooklyn White stating, 'Call me urgent.'",
+    "source": "Alex",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "16000",
+    "start": "10:47:00 PM",
+    "end": "10:49:42 PM",
+    "description": "Buster Murdaugh calls Alex. The call lasts 162 seconds.",
+    "source": "Buster",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:02:42"
+},
+{
+    "id": "16100",
+    "start": "10:55:00 PM",
+    "end": "10:55:08 PM",
+    "description": "Alex Murdaugh calls Brian White. The connection lasts 8 seconds.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:00:08"
+},
+{
+    "id": "16200",
+    "start": "10:56:00 PM",
+    "end": "10:59:36 PM",
+    "description": "Buster Murdaugh calls Alex Murdaugh. The call lasts 216 seconds.",
+    "source": "Buster",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:03:36"
+},
+{
+    "id": "16300",
+    "start": "11:17:00 PM",
+    "end": "11:17:14 PM",
+    "description": "Alex Murdaugh calls Bart Proctor. The connection lasts 14 seconds.",
+    "source": "Alex",
+    "action": "calls",
+    "location": null,
+    "measurement": "0:00:14"
+},
+{
+    "id": "16400",
+    "start": "11:19:00 PM",
+    "end": null,
+    "description": "Randy Murdaugh, using Alex's phone, texts Bart Proctor stating, 'Bart this is Randy Murdaugh. There has been a terrible tragedy and I need you to call me phone number XXX-XXX-XXXX immediately.'",
+    "source": "Randy Murdaugh (Alex's Phone)",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "16500",
+    "start": "11:28:00 PM",
+    "end": null,
+    "description": "LaClaire Laffitte texts Alex Murdaugh, stating, 'Our hearts hurt for you and with you Charlie and LaClaire.'",
+    "source": "LaClaire Laffitte",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "16600",
+    "start": "11:56:00 PM",
+    "end": null,
+    "description": "Tracy White texts Alex Murdaugh stating, 'I am so so sorry!!!! Let me know how I can help!!! I am here for you all!'",
+    "source": "Tracy White",
+    "action": "texts",
+    "location": null,
+    "measurement": null
+},
+{
+    "id": "16700",
+    "start": "11:47:00 PM",
+    "description": "SLED arrives to the scene.",
+    "source": "SLED",
+    "action": "arrives",
+    "location": "Moselle kennels",
+    "measurement": null
+}]
