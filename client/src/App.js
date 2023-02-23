@@ -1,5 +1,10 @@
 import './App.css';
-import Timeline from 'react-calendar-timeline';
+import Timeline, {
+  TimelineMarkers,
+  CustomMarker,
+  TodayMarker,
+  CursorMarker
+} from 'react-calendar-timeline';
 // make sure you include the timeline stylesheet or the timeline will not be styled
 import 'react-calendar-timeline/lib/Timeline.css';
 import moment from 'moment';
@@ -17,12 +22,13 @@ const items = db.map((item) => {
     start_time: new Date(`${dateOfMurders} ${item.start}`).getTime(),
     end_time: new Date(`${dateOfMurders} ${item.end}`).getTime(),
     canMove: false,
+    tip: "Click to see more",
     canResize: true,
     canChangeGroup: false,
     itemProps: {
       // these optional attributes are passed to the root <div /> of each item as <div {...itemProps} />
       'data-custom-attribute': 'Random content',
-      // 'aria-hidden': true,
+      'aria-hidden': true,
       onDoubleClick: () => { console.log('You clicked double!'); },
       className: 'weekend',
       style: {
@@ -44,44 +50,33 @@ const groups = [...new Set(db.map((item) => item.source))].map((source) => {
 const startTime = new Date(`${dateOfMurders} 00:00:00`).getTime();
 const endTime = new Date(`June 8, 2021 00:00:00`).getTime();
 
-
-// const items = [
-//   {
-//     id: 1,
-//     group: 1,
-//     title: 'Random title',
-//     start_time: moment().add(-0.5, 'hour'),
-//     end_time: moment().add(0.5, 'hour'),
-//     canMove: true,
-//     canResize: false,
-//     canChangeGroup: false,
-//     itemProps: {
-//       // these optional attributes are passed to the root <div /> of each item as <div {...itemProps} />
-//       'data-custom-attribute': 'Random content',
-//       'aria-hidden': true,
-//       onDoubleClick: () => { console.log('You clicked double!'); },
-//       className: 'weekend',
-//       style: {
-//         background: 'fuchsia'
-//       }
-//     }
-//   },
-// ];
-
-
-
 function App() {
   return (
     <div className="">
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
       <Timeline
         groups={groups}
         items={items}
-        visibleTimeStart={startTime}
-        visibleTimeEnd={endTime}
-      />
+        minZoom={60 * 1000}
+        defaultTimeStart={startTime}
+        defaultTimeEnd={endTime}
+      >
+        <TimelineMarkers>
+          <TodayMarker />
+          <CustomMarker date={startTime} />
+          <CustomMarker date={endTime}>
+            {/* custom renderer for this marker */}
+            {({ styles, date }) => {
+              const customStyles = {
+                ...styles,
+                backgroundColor: 'deeppink',
+                width: '4px'
+              };
+              return <div style={customStyles} onClick={() => window.alert('Hello world!')} />;
+            }}
+          </CustomMarker>
+          <CursorMarker />
+        </TimelineMarkers>
+      </Timeline>
     </div>
   );
 }
